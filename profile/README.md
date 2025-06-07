@@ -12,7 +12,7 @@
 -->
 # 👋 Welcome to COODIC
 
-**Coodic** is a technology-driven software company dedicated to delivering innovative, scalable, and intelligent digital solutions. We specialize in crafting high-performance applications, websites, enterprise systems, and AI-powered platforms tailored to meet the evolving needs of modern businesses.
+**COODIC** is a technology-driven software company dedicated to delivering innovative, scalable, and intelligent digital solutions. We specialize in crafting high-performance applications, websites, enterprise systems, and AI-powered platforms tailored to meet the evolving needs of modern businesses.
 
 ---
 
