@@ -46,7 +46,7 @@ For larger contributions or to discuss project ideas, feel free to open an issue
 
 ## 📚 Resources
 
-- 🌐 **Official Website**: [www.coodic.com](https://www.coodic.com)
+- 🌐 **Official Website**: [www.coodic.org](https://www.coodic.org)
 - 📄 **Documentation**: Coming soon
 - 📧 **Contact**: info@coodic.com
 
